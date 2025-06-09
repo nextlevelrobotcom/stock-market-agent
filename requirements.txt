@@ -1,0 +1,18 @@
+finnhub-python==2.4.23
+influxdb-client==1.48.0
+jupyter==1.1.1
+notebook==7.3.3
+pandas==2.2.3
+plotly==6.0.1
+python-dotenv==1.1.0
+requests==2.32.3
+yfinance==0.2.55
+numpy==1.24.4
+statsmodels==0.14.4
+pandas_ta==0.3.14b0
+scikit-learn==1.6.1
+langchain==0.2.11 # Or latest compatible version
+langchain-openai==0.1.17 # Or latest compatible version
+langchain-community==0.2.10
+slack-sdk==3.35.0
+streamlit==1.45.1
