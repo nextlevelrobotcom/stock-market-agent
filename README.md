@@ -1,6 +1,9 @@
 # stock-market-agent
 Stock Market Agent: Classical Methods (Timeseries) + AI Sentiment (News)
 
+## Architecture
+![Architecture](./images/Architecture_Overview.png)
+
 ## Requirements
 
 - InfluxDB: < 190 MB for 3 stocks, 220 - 230 MB for 4-5 stocks, 260 - 370 MB RAM for 6-7 stocks and > 1.3 year of stock and news history
